@@ -1,4 +1,4 @@
-# proiect-identificarea-sistemelor
+# Proiect Identificarea Sistemelor
 
 Identificarea Sistemelor Dinamice (Ordin II)
 
