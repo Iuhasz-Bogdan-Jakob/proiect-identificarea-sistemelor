@@ -1,8 +1,8 @@
 # proiect-identificarea-sistemelor
 
-Identificarea Sistemelor Dinamice (Ordin II și Parametrică)
+Identificarea Sistemelor Dinamice (Ordin II)
 
-Acest proiect explorează diverse metode de identificare a modelelor matematice pentru sisteme dinamice, utilizând achiziția de date experimentale și prelucrarea acestora în MATLAB. Lucrarea este structurată pe trei piloni principali de analiză: identificarea aperiodică, analiza în frecvență și metodele parametrice.
+Acest proiect explorează diverse metode de identificare a modelelor matematice pentru sisteme dinamice, utilizând un set de date realizat experimental și prelucrarea acestora în MATLAB. Lucrarea este structurată pe trei piloni principali de analiză: identificarea aperiodică, analiza în frecvență (metode neparametrice) și metodele parametrice.
 
 Capitole și Metodologii
 
@@ -20,7 +20,7 @@ Capitole și Metodologii
 
     Metodă: Utilizarea semnalelor Chirp pentru a mătura o gamă largă de frecvențe și a identifica pulsația naturală ωn​ și factorul de amortizare ζ.
 
-    Rezultat: Reconstruirea constantelor de timp pornind de la faza de −90∘ identificată experimental.
+    Rezultat: Reconstruirea constantelor de timp pornind de la faza de −90∘ identificată experimental cât și cu ajutorul cunoștintelor a priori despre diagrama Nyquist.
 
 3. Metode Parametrice (Convertor DC-DC Boost)
 
